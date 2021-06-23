@@ -5,7 +5,7 @@ A blockchain implementation in python with following features:
     
     - Create a wallet with public and private keys to hold coins.
     
-    - Allows signing and verification of transactions.
+    - Allows signing and verification of transactions using sha256 hashing.
     
     - Allows a network of nodes to hold the blockchain.
     
